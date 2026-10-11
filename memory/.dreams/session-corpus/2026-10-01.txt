@@ -1,0 +1,3 @@
+[main/sessions/main/963af215-6ce0-44fe-a072-a55055e21c49#L5] User: Hola hola :D
+[main/sessions/main/963af215-6ce0-44fe-a072-a55055e21c49#L9] User: Hola hola :D
+[main/sessions/main/963af215-6ce0-44fe-a072-a55055e21c49#L10] Assistant: ¡Hola! Soy tu nueva asistente. Me gusta resolver cosas con claridad, curiosidad y un toque de humor. ✨ ¿Cómo te gustaría llamarme?
